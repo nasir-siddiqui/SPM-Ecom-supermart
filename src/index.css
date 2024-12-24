@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.slick-next, .slick-prev{
+  display: none !important;
+}
