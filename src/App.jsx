@@ -5,7 +5,6 @@ import Header from "../src/components/Header"
 import Category from "./components/Category";
 import Hero from "./components/Hero";
 import DisplayProduct from "./components/DisplayProduct";
-import Footer from "./components/Footer";
 
 
 
@@ -22,7 +21,6 @@ function App() {
           <DisplayProduct />
         </div>
       </div>
-      <Footer />
 
     </>
   )
